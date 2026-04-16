@@ -1,48 +1,64 @@
-# Sixte
+# Bonjour, je suis Sixte
 
-**Expert en Gestion d'Opérations Comptables & Développeur Polyvalent** 📍 Bénin, Afrique de l'Ouest
-
-Mon expertise centrale réside dans la **gestion rigoureuse des opérations comptables** et l'optimisation des flux financiers. J'aborde les processus d'entreprise avec pragmatisme, en m'assurant que la réalité des chiffres dicte la stratégie. 
-
-Parallèlement à mon cœur de métier financier, je possède une solide maîtrise technique. Je ne développe pas de simples outils informatiques ; je construis des systèmes fiables et des architectures concrètes capables de soutenir des opérations complexes, avec une conscience aiguë des réalités économiques et des contraintes d'infrastructure locales. J'applique cette double approche technique et comptable au sein de projets comme [Atom Africa Monde](https://atomafricamonde.com).
+Développeur fullstack basé au **Bénin**, je conçois des applications web, desktop et mobile, et je gère l'infrastructure serveur derrière elles.
 
 ---
 
-### 🛠️ Outils & Technologies
+## Stack
 
-Bien que mon focus soit opérationnel et comptable, voici l'écosystème technique sur lequel je m'appuie pour concevoir des architectures robustes (API, automatisation, intégrations) :
+**Frontend**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-</p>
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
----
+**Mobile & Desktop**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
-### 📂 Projets & Réalisations Techniques
-
-Voici une sélection de mes travaux publics démontrant ma capacité à architecturer des solutions back-end, à manipuler des données et à concevoir des interfaces complexes.
-
-| Projet | Description | Technologies |
-| :--- | :--- | :--- |
-| **[Spring Boot Tutorial / Demo](lien-vers-repo)** | Implémentation d'une API REST propre avec opérations CRUD. Démontre la maîtrise du back-end Java, la structuration avec Swagger/OpenAPI et le déploiement conteneurisé. | `Java`, `Spring Boot`, `Docker` |
-| **[apiremove](lien-vers-repo)** | Service d'automatisation exploitant une API externe pour le traitement et l'édition d'images en batch. Un cas d'usage axé sur le gain de temps et l'efficacité des processus. | `API REST`, `Automatisation` |
-| **[Notion Clone](lien-vers-repo)** | Rétro-ingénierie et intégration d'une interface utilisateur complexe, illustrant une compréhension approfondie de la structuration de l'information et des interactions web avancées. | `Frontend`, `UI/UX` |
-| **[Tradio API](lien-vers-repo)** | API robuste gérant la logique métier. Code générique et documenté prouvant la capacité à construire des fondations d'échange de données fiables. | `PHP`, `SQL` |
-| **[MikroTik Monitor](lien-vers-repo)** | Outil de supervision d'infrastructure réseau. Interfaçage avec des équipements matériels et tâches planifiées pour le suivi de la connectivité en temps réel. | `PHP`, `Réseau`, `Cron` |
-| **[GameShelf](lien-vers-repo)** | Application exploratoire pour la gestion de bibliothèques interactives, confirmant l'adaptabilité sur de nouveaux frameworks front-end. | `React`, `JavaScript` |
+**Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-### 📈 Activité & Contribution
-*Privilégiant la qualité et la stabilité à la quantité, mes contributions reflètent des avancées concrètes sur des systèmes en production et des optimisations de processus.*
+## Expérience professionnelle
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/sixte" alt="Sixte's GitHub chart" />
-</p>
+**Atom Africa Monde** — Développeur web  
+Développement de l'ensemble des applications de la suite ATOM, selon les standards internes de l'entreprise :
 
-📫 **Me contacter :** [Lien vers ton LinkedIn / Email professionnel]
+- **[atomafricamonde.com](https://atomafricamonde.com)** — Portail central donnant accès aux applications de la suite
+- **Apprenantsinfo** — Plateforme de gestion scolaire multi-rôles
+- **Validations** — Application de gestion de points de validation
+- **Intelligence Financière (if)** — Outil d'analyse et de suivi financier
+
+---
+
+## Projets personnels
+
+| Projet | Description | Stack |
+|---|---|---|
+| [apiremove](https://github.com/SixteNow/apiremove) | Suppression et édition d'images en batch via l'API remove.bg | JavaScript |
+| [notionlte](https://github.com/SixteNow/notionlte) | Editeur de notes inspiré de Notion | PHP, SCSS |
+| [bibliothequespringboot](https://github.com/SixteNow/bibliothequespringboot) | API REST de gestion de bibliothèque | Java, Spring Boot |
+| [api-mtn-benin](https://github.com/SixteNow/api-mtn-benin) | Fonctions PHP pour l'intégration de l'API MoMo MTN Bénin | PHP |
+| [Mikrotik-config](https://github.com/SixteNow/Mikrotik-config) | Monitoring d'utilisateurs sur un réseau hotspot MikroTik | HTML, PHP |
+| [zoonova](https://github.com/SixteNow/zoonova) | Refonte d'interface web | JavaScript |
+
+---
+
+## Contact
+
+Ouvert aux opportunités freelance et remote.  
+shouetognankou [at] gmail [dot] com
+
+Ouvert aux opportunités freelance et remote.
