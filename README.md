@@ -10,7 +10,6 @@ Développeur fullstack basé au **Bénin**, je conçois des applications web, de
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 **Backend**
@@ -20,7 +19,6 @@ Développeur fullstack basé au **Bénin**, je conçois des applications web, de
 
 **Mobile & Desktop**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 **Infra**
@@ -43,7 +41,7 @@ Développement de l'ensemble des applications de la suite ATOM, selon les standa
 
 ---
 
-## Projets personnels
+## Projets personnels publics
 
 | Projet | Description | Stack |
 |---|---|---|
